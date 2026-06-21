@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69 69" width="69" height="69">
+	<defs>
+		<image width="50" height="50" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAN5QTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8plxigAAAEp0Uk5TAGj/7wXFTyGtgPoQ3eZnOWTSl/QLapgP+IFRLKHkr8s9PGXZmml088YUVaqzRvzebjvMKe6IQOGHUv4XiQG+MEPcoBF+CMe5I1z+tfzwAAABXklEQVR4nGNkIBkwjmoZ1TIQWhgZYfQfYrWw/oUyWH4RqYX9N4zF9oNILZw/YSwOxq/EaeH5BiS4wYp5PhGlhf8ziORj/AgkmX9jymPRIvQBSAgyMr4FcVh/YshjamH5/x9IirwSZ3wFpMWfE6FF6gWIlHzKIPMMSEs/JkKL3BMgIfuQgUHhEYgrf5+gFu7/oLhQuAcklEGqle4Q1KJ6lwHk+TdAUu0OmI+eaDC0aNxiAHkexNR8CLJQ4xoBLZDEAvQ8CGhfBxJaVwhoAScWkOdBQPcqkNC5+xW/Fv3L6C5l0LuAV4vhRQwdDAbn8GoRe4OphcHwLB4tLGATjRGCjKeBhNkJPFosTwIJC8ajcAGbY0BCWuEwbi3gxGJzCCFgD1ZsdwCnFkhiQclWjgeBhMM+nFpEQVlER3QvkpALSLWq3G5cWtz2AAnXnchCHrtApPt2nH4hCoxqGdVCay0AoylTM99YxosAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #fe4300 } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m34.5 69c-19.08 0-34.5-15.42-34.5-34.5 0-19.08 15.42-34.5 34.5-34.5 19.08 0 34.5 15.42 34.5 34.5 0 19.08-15.42 34.5-34.5 34.5z"/>
+	<use id="New Project" href="#img1" transform="matrix(1,0,0,1,10,10)"/>
+</svg>

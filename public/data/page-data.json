@@ -1,0 +1,109 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "sharma.astha275@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:sharma.astha275@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 7987101787",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+917987101787"
+      },
+      {
+        "type": "website",
+        "label": "asthasharma.netlify.app",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://asthasharma.netlify.app/"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "dribble",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://github.com/developerAstha"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/astha-sharma-webdev"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://www.freelancer.com/u/sharmastha275?sb=t"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Bachelor of Computer Applications - 2015-18",
+        "description": "I completed my Bachelor of Computer Applications (BCA) from Devi Ahilya Vishwavidyalaya (DAVV) University, Indore, in 2018, gaining a strong foundation in programming (C, C++, Java, PHP) and core subjects like Data Structures and DBMS. This sparked my interest in web technologies, leading me to specialize in WordPress development."
+      },
+      {
+        "title": "Projection Training & Placement Company - 2018-19",
+        "description": "I gained practical, industry-ready skills through training at Projection Training and Placement, which kickstarted my 6-year journey as a WordPress Developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "WordPress",
+        "icon": "/images/home/education-skill/invision-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "PHP",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "MySQL",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "HTML/CSS",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Javascript",
+        "icon": "/images/home/education-skill/sketch-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Freelancer",
+        "href": "https://www.freelancer.com/u/sharmastha275?sb=t"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/astha-sharma-webdev"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "sharma.astha275@gmail.com",
+        "link": "mailto:sharma.astha275@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 7987101787",
+        "link": "tel:+917987101787"
+      }
+    ]
+  }
+}
